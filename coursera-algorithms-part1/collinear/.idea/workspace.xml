@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2019d073-0d71-4779-a36d-705ffc362506" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Percolation/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queues/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Queues/.idea/libraries/stdlib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board$coordinatePair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board$coordinatePair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Solver$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Solver$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Solver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../8Puzzle/out/production/8Puzzle/Solver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$Side.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree$Side.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTreeVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/KdTreeVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/NearestNeighborVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/NearestNeighborVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/PointSET.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/PointSET.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/RangeSearchVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/RangeSearchVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KdTree/out/production/KdTree/RectHV.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KdTree/out/production/KdTree/RectHV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/PercolationVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/Queues.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/Queues.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$DequeIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$DequeIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/Deque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/RandomizedQueue$RandomizedArrayIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/RandomizedQueue$RandomizedArrayIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/RandomizedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/RandomizedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/Subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/Subset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/Brute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/Brute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/Fast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/Fast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/Point$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/Point$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/Point$SlopeOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/Point$SlopeOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/collinear/PointPlotter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collinear/PointPlotter.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="collinear" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectId" id="1a7MNh7Muc1ghsbf4QLIScRnAly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.PointPlotter">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fast" />
+      <module name="collinear" />
+      <option name="PROGRAM_PARAMETERS" value="./collinear/input10.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="collinear" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointPlotter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointPlotter" />
+      <module name="collinear" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Point" />
+      <item itemvalue="Application.Fast" />
+      <item itemvalue="Application.PointPlotter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PointPlotter" />
+        <item itemvalue="Application.Fast" />
+        <item itemvalue="Application.Point" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2019d073-0d71-4779-a36d-705ffc362506" name="Default" comment="" />
+      <created>1404779052462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1404779052462</updated>
+      <workItem from="1570804756009" duration="82000" />
+      <workItem from="1570805199508" duration="642000" />
+      <workItem from="1586082149065" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>collinear</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
